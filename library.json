@@ -1,14 +1,14 @@
 {
   "name": "MorseTest",
-  "version": "1.2.0",
+  "version": "4.4.0",
   "keywords": "test,morse",
   "description": "Descripcion libreria",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/lu4ult/MorseTest.git"
+    "url": "http://github.com/lu4ult/MorseTest.git"
   },
   "frameworks": "arduino",
   "platforms": "espressif8266"
-  "version": "3.2.0"	
+  "version": "3.3.0"	
 }
