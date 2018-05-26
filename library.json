@@ -1,6 +1,6 @@
 {
   "name": "MorseTest",
-  "version": "4.4.0",
+  "version": "3.4.0",
   "keywords": "test,morse",
   "description": "Descripcion libreria",
   "repository":
@@ -10,5 +10,4 @@
   },
   "frameworks": "arduino",
   "platforms": "espressif8266"
-  "version": "3.3.0"	
 }
